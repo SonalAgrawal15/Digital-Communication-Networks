@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bonus Question/.idea/Bonus Question.iml" filepath="$PROJECT_DIR$/../Bonus Question/.idea/Bonus Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EE673_Q1.iml" filepath="$PROJECT_DIR$/.idea/EE673_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EE673_Q2/.idea/EE673_Q2.iml" filepath="$PROJECT_DIR$/../EE673_Q2/.idea/EE673_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EE673_Q3/.idea/EE673_Q3.iml" filepath="$PROJECT_DIR$/../EE673_Q3/.idea/EE673_Q3.iml" />
+    </modules>
+  </component>
+</project>
